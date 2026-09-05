@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/foundation-fiddle
+purpose: Experimental humanitarian/foundation product exploration.
+status: vertical-experiment
+canonical_parent: davlindh/faving-journey-shaper
+capabilities: [foundation, community, experimentation]
+vertical: humanitarian
+omniframez_role: vertical-experiment
+evidence: {confidence: inferred, sources: [repository-name]}
+harvest_action: inspect-and-harvest-unique-capabilities
+relations:
+  - contributes_to: humanitarian vertical knowledge
